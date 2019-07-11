@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110540a3-d1a0-4d7d-bcc8-bd2591c81089" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ARFoundationTesting/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARFoundationTesting/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ARFoundationTesting/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARFoundationTesting/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ARFoundationTesting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARFoundationTesting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Testing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Testing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/yellow_square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/yellow_square.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +21,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArTapToPlaceObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="64" column="20" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+              <folding>
+                <marker date="1562849075860" expanded="true" signature="6:227" ph="..." />
+                <marker date="1562849075860" expanded="true" signature="276:2254" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="283:376" ph="Public fields" />
+                <marker date="1562849075860" expanded="true" signature="381:539" ph="Private fields" />
+                <marker date="1562849075860" expanded="true" signature="545:924" ph="Unity methods" />
+                <marker date="1562849075860" expanded="true" signature="588:657" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="676:909" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="856:903" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="930:968" ph="Public methods" />
+                <marker date="1562849075860" expanded="true" signature="974:2252" ph="Private Methods" />
+                <marker date="1562849075860" expanded="true" signature="1036:1742" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="1433:1736" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="1791:2103" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="1832:2015" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="2028:2097" ph="{...}" />
+                <marker date="1562849075860" expanded="true" signature="2139:2236" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARRaycastManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -23,12 +69,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../tuw-arfoundation-demo/Assets/Demo/ARTapToPlaceObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARSessionOrigin.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARCameraFrameEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARRaycastManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Testing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArTapToPlaceObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARSession.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARCameraBackground.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -36,6 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Testing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARTapToPlaceObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArTapToPlaceObject.cs" />
       </list>
     </option>
   </component>
@@ -66,6 +114,11 @@
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
             </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -83,6 +136,9 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -129,12 +185,12 @@
       <workItem from="1562680171112" duration="295000" />
       <workItem from="1562680483518" duration="3353000" />
       <workItem from="1562834210437" duration="742000" />
-      <workItem from="1562836817779" duration="878000" />
+      <workItem from="1562836817779" duration="8977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5384000" />
+    <option name="totallyTimeSpent" value="13483000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -146,7 +202,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2605221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,25 +248,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARSession.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3723">
-          <caret line="219" column="36" selection-start-line="219" selection-start-column="12" selection-end-line="219" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1562680562777" expanded="true" signature="67:241" ph="{...}" />
-            <marker date="1562680562777" expanded="true" signature="139:160" ph="{...}" />
-            <marker date="1562680562777" expanded="true" signature="218:239" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -227,11 +269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1562683905157" expanded="true" signature="56:251" ph="{...}" />
-            <marker date="1562683905157" expanded="true" signature="128:170" ph="{...}" />
-            <marker date="1562683905157" expanded="true" signature="228:249" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -251,10 +288,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARSession.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="289" column="47" selection-start-line="289" selection-start-column="47" selection-end-line="289" selection-end-column="47" />
+          <folding>
+            <marker date="1559791393000" expanded="true" signature="6:74" ph="..." />
+            <marker date="1559791393000" expanded="true" signature="113:12222" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="120:569" ph="/// &lt;para&gt; ... " />
+            <marker date="1559791393000" expanded="true" signature="894:12220" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="1094:1546" ph="/// If the device supports XR but does not have the necessary software, some platforms ... " />
+            <marker date="1559791393000" expanded="true" signature="1580:1689" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="1699:1817" ph="/// This event is invoked whenever the &lt;see cref=&quot;systemState&quot;/&gt; changes. ... " />
+            <marker date="1559791393000" expanded="true" signature="1908:2058" ph="/// The state of the entire system. Use this to determine the status of AR availability and installation. ... " />
+            <marker date="1559791393000" expanded="true" signature="2101:2428" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="2171:2418" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="2438:2618" ph="/// Resets the AR Session. This destroys the current session, including all trackables, and ... " />
+            <marker date="1559791393000" expanded="true" signature="2646:2843" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="2853:3410" ph="/// Emits a warning in the console if more than one active &lt;see cref=&quot;ARSession&quot;/&gt; ... " />
+            <marker date="1559791393000" expanded="true" signature="3450:4165" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="3556:4155" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="3713:3825" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="4175:4683" ph="/// Start checking the availability of XR on the current device. ... " />
+            <marker date="1559791393000" expanded="true" signature="4737:6421" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="4876:4939" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="5131:5266" ph="/* Normally, the subsystem is created in OnEnable, but users may ... */" />
+            <marker date="1559791393000" expanded="true" signature="5366:5522" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="5573:6411" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="5929:6015" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="6103:6284" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="6305:6397" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="6431:7144" ph="/// Begin installing AR software on the current device (if supported). ... " />
+            <marker date="1559791393000" expanded="true" signature="7188:9125" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="7305:7368" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="7396:8099" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="8609:9115" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="9135:9264" ph="/// Creates and initializes the session subsystem. Begins checking for availability. ... " />
+            <marker date="1559791393000" expanded="true" signature="9307:9536" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="9570:10414" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10061:10129" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10263:10326" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10343:10404" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10436:10487" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10510:11276" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10576:11266" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10666:10828" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="10880:11252" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="11322:11540" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="11585:11796" ph="{...}" />
+            <marker date="1559791393000" expanded="true" signature="11841:12084" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tuw-arfoundation-demo/Assets/Demo/ARTapToPlaceObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@1.5.0-preview.5/Runtime/AR/ARRaycastManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="623">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArTapToPlaceObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="64" column="20" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+          <folding>
+            <marker date="1562849075860" expanded="true" signature="6:227" ph="..." />
+            <marker date="1562849075860" expanded="true" signature="276:2254" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="283:376" ph="Public fields" />
+            <marker date="1562849075860" expanded="true" signature="381:539" ph="Private fields" />
+            <marker date="1562849075860" expanded="true" signature="545:924" ph="Unity methods" />
+            <marker date="1562849075860" expanded="true" signature="588:657" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="676:909" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="856:903" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="930:968" ph="Public methods" />
+            <marker date="1562849075860" expanded="true" signature="974:2252" ph="Private Methods" />
+            <marker date="1562849075860" expanded="true" signature="1036:1742" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="1433:1736" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="1791:2103" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="1832:2015" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="2028:2097" ph="{...}" />
+            <marker date="1562849075860" expanded="true" signature="2139:2236" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
